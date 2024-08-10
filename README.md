@@ -22,6 +22,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 ![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=oop)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=563D7C)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=bloc&logoColor=1572B6)&nbsp;
